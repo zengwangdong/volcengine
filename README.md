@@ -86,6 +86,6 @@ Thanks to Dola seed for sponsoring this project! Dola Seed 2.0 is a full‑modal
 <div align="center">
 <a href="英文链接">
     <img src="./byteplus.png" alt="BytePlus" width="150"/ >
-    <p> Thanks to Dola seed for sponsoring this project! Register via this link to get 500,000 tokens of free inference quota per model. </p>
+    <p> Thanks to Dola seed for sponsoring this project! Register via <a href="英文链接">this link</a> to get 500,000 tokens of free inference quota per model. </p>
 </a>
 </div>
