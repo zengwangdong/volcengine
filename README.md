@@ -1,2 +1,71 @@
 # volcengine
+
 火山引擎推广素材
+
+logo: <img src="./favicon.png" alt="HuoShan">
+
+活动素材：
+
+<img src="./huoshan1.png" alt="HuoShan">
+
+### 样式一
+
+#### 中文版本
+<table>
+    <tr>
+        <td width="180"><a href="中文链接"><img src="./huoshan.png" alt="HuoShan" width="150"></a></td>
+        <td>感谢<strong>火山引擎 </strong>赞助了本项目！方舟 Agent Plan 模型订阅套餐集成了包含 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等在内的字节跳动自研 SOTA 级模型，覆盖文本、代码、图像、视频等多模态任务。最新支持 MiniMax-M3、DeepSeek-V4 系列、GLM-5.2、Doubao-Seed-2.0 系列、Kimi-K2.7 等模型，工具不限。超全模态模型与 Harness 升级一步到位，深度支持 Agent 框架与 AI 编程工具。一次订阅，可以为不同任务切换合适的 AI 引擎。限时2.5折订阅，<a href="中文链接">点击链接抢购</a> 名额有限，先到先得，<a href="英文链接">>>For developers outside Mainland China, please click here</a></td>
+    </tr>
+</table>
+
+#### 英文版本
+
+<table>
+    <tr>
+        <td width="180">
+            <a href="英文链接"><img src="./byteplus.png" alt="BytePlus" width="150"></a>
+        </td>
+        <td>Thanks to Dola seed for sponsoring this project! Dola Seed 2.0 is a full‑modal general large model independently developed by ByteDance for the global market. Built on a unified multimodal architecture, it supports joint understanding and generation of text, images, audio, and video. It natively enables agent collaboration, with strong reasoning, long‑task execution, tool integration, and coding capabilities. It is widely applicable to smart cockpits, personal assistants, education, customer support, marketing, retail, and other scenarios. It excels in multimodal perception, end‑to‑end complex task delivery, stable interaction, and data security, and is readily accessible and deployable via the ModelArk platform.Register via <a href="英文链接">this link</a> to get 500,000 tokens of free inference quota per model.<a href="中文链接"> >>中国大陆地区的开发者请点击这里</a></td>
+    </tr>
+</table>
+
+### 样式二
+
+#### 中文版本
+
+感谢<strong>火山引擎 </strong>赞助了本项目！方舟 Agent Plan 模型订阅套餐集成了包含 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等在内的字节跳动自研 SOTA 级模型，覆盖文本、代码、图像、视频等多模态任务。最新支持 MiniMax-M3、DeepSeek-V4 系列、GLM-5.2、Doubao-Seed-2.0 系列、Kimi-K2.7 等模型，工具不限。超全模态模型与 Harness 升级一步到位，深度支持 Agent 框架与 AI 编程工具。一次订阅，可以为不同任务切换合适的 AI 引擎。限时2.5折订阅，<a href="中文链接">点击链接抢购</a> 名额有限，先到先得，<a href="英文链接">>>For developers outside Mainland China, please click here</a>
+
+#### 英文版本
+
+Thanks to Dola seed for sponsoring this project! Dola Seed 2.0 is a full‑modal general large model independently developed by ByteDance for the global market. Built on a unified multimodal architecture, it supports joint understanding and generation of text, images, audio, and video. It natively enables agent collaboration, with strong reasoning, long‑task execution, tool integration, and coding capabilities. It is widely applicable to smart cockpits, personal assistants, education, customer support, marketing, retail, and other scenarios. It excels in multimodal perception, end‑to‑end complex task delivery, stable interaction, and data security, and is readily accessible and deployable via the ModelArk platform.Register via <a href="英文链接">this link</a> to get 500,000 tokens of free inference quota per model.<a href="中文链接"> >>中国大陆地区的开发者请点击这里</a>
+
+### 样式三
+
+#### 中文版本
+<table>
+    <tr>
+    <td  width="160" align="center">
+      <a href="中文链接"><img src="./favicon.png" alt="火山引擎" height="32"></a><br>
+      <a href="中文链接"><strong>火山引擎</strong></a>
+    </td>
+    <td align="left">
+      <sub>感谢<strong>火山引擎 </strong>赞助了本项目！方舟 Agent Plan 模型订阅套餐集成了包含 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等在内的字节跳动自研 SOTA 级模型，覆盖文本、代码、图像、视频等多模态任务。最新支持 MiniMax-M3、DeepSeek-V4 系列、GLM-5.2、Doubao-Seed-2.0 系列、Kimi-K2.7 等模型，工具不限。超全模态模型与 Harness 升级一步到位，深度支持 Agent 框架与 AI 编程工具。一次订阅，可以为不同任务切换合适的 AI 引擎。限时2.5折订阅，<a href="中文链接">点击链接抢购</a> 名额有限，先到先得，<a href="英文链接">>>For developers outside Mainland China, please click here</a>
+        </sub>
+    </td>
+  </tr>
+</table>
+
+#### 英文版本
+<table>
+    <tr>
+        <td  width="160" align="center">
+          <a href="英文链接"><img src="./favicon%20(1).png" alt="BytePlus" height="32"></a><br>
+          <a href="英文链接"><strong>BytePlus</strong></a>
+        </td>
+        <td align="left">
+          <sub>
+            Thanks to Dola seed for sponsoring this project! Dola Seed 2.0 is a full‑modal general large model independently developed by ByteDance for the global market. Built on a unified multimodal architecture, it supports joint understanding and generation of text, images, audio, and video. It natively enables agent collaboration, with strong reasoning, long‑task execution, tool integration, and coding capabilities. It is widely applicable to smart cockpits, personal assistants, education, customer support, marketing, retail, and other scenarios. It excels in multimodal perception, end‑to‑end complex task delivery, stable interaction, and data security, and is readily accessible and deployable via the ModelArk platform.Register via <a href="英文链接">this link</a> to get 500,000 tokens of free inference quota per model.<a href="中文链接"> >>中国大陆地区的开发者请点击这里</a>
+          </sub>
+        </td>
+    </tr>
+</table>
