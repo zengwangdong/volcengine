@@ -14,7 +14,8 @@ logo: <img src="./favicon.png" alt="HuoShan">
 <table>
     <tr>
         <td width="180"><a href="中文链接"><img src="./huoshan.png" alt="HuoShan" width="150"></a></td>
-        <td>感谢<strong>火山引擎 </strong>赞助了本项目！方舟 Agent Plan 模型订阅套餐集成了包含 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等在内的字节跳动自研 SOTA 级模型，覆盖文本、代码、图像、视频等多模态任务。最新支持 MiniMax-M3、DeepSeek-V4 系列、GLM-5.2、Doubao-Seed-2.0 系列、Kimi-K2.7 等模型，工具不限。超全模态模型与 Harness 升级一步到位，深度支持 Agent 框架与 AI 编程工具。一次订阅，可以为不同任务切换合适的 AI 引擎。方舟 Agent Plan 限时2.5折订阅，<a href="中文链接">点击链接抢购</a> 名额有限，先到先得，<a href="英文链接">>>For developers outside Mainland China, please click here</a></td>
+        <td>感谢<a href="中文链接">字节火山引擎</a>赞助本项目！
+【专属活动优惠】19元Tokens包！享字节自研豆包模型+满血版开源 SOTA模型，覆盖文本、VLM、图像生成，全模态一站配齐：Seed-2.1、Seedream-5.0、GLM-5.2、DeepSeek、Qwen等。不止编程、更能解决 Agent 复杂长程任务 -->注册即领2500万Tokens，立即前往，<a href="英文链接">>>For developers outside Mainland China, please click here</a></td>
     </tr>
 </table>
 
@@ -33,7 +34,9 @@ logo: <img src="./favicon.png" alt="HuoShan">
 
 #### 中文版本
 
-感谢<strong>火山引擎 </strong>赞助了本项目！方舟 Agent Plan 模型订阅套餐集成了包含 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等在内的字节跳动自研 SOTA 级模型，覆盖文本、代码、图像、视频等多模态任务。最新支持 MiniMax-M3、DeepSeek-V4 系列、GLM-5.2、Doubao-Seed-2.0 系列、Kimi-K2.7 等模型，工具不限。超全模态模型与 Harness 升级一步到位，深度支持 Agent 框架与 AI 编程工具。一次订阅，可以为不同任务切换合适的 AI 引擎。方舟 Agent Plan 限时2.5折订阅，<a href="中文链接">点击链接抢购</a> 名额有限，先到先得，<a href="英文链接">>>For developers outside Mainland China, please click here</a>
+
+感谢<a href="中文链接">字节火山引擎</a>赞助本项目！
+【专属活动优惠】19元Tokens包！享字节自研豆包模型+满血版开源 SOTA模型，覆盖文本、VLM、图像生成，全模态一站配齐：Seed-2.1、Seedream-5.0、GLM-5.2、DeepSeek、Qwen等。不止编程、更能解决 Agent 复杂长程任务 -->注册即领2500万Tokens，立即前往，<a href="英文链接">>>For developers outside Mainland China, please click here</a>
 
 #### 英文版本
 
@@ -49,7 +52,8 @@ Thanks to Dola seed for sponsoring this project! Dola Seed 2.0 is a full‑modal
       <a href="中文链接"><strong>火山引擎</strong></a>
     </td>
     <td align="left">
-      <sub>感谢<strong>火山引擎 </strong>赞助了本项目！方舟 Agent Plan 模型订阅套餐集成了包含 Doubao-Seed、Doubao-Seedance、Doubao-Seedream 等在内的字节跳动自研 SOTA 级模型，覆盖文本、代码、图像、视频等多模态任务。最新支持 MiniMax-M3、DeepSeek-V4 系列、GLM-5.2、Doubao-Seed-2.0 系列、Kimi-K2.7 等模型，工具不限。超全模态模型与 Harness 升级一步到位，深度支持 Agent 框架与 AI 编程工具。一次订阅，可以为不同任务切换合适的 AI 引擎。方舟 Agent Plan 限时2.5折订阅，<a href="中文链接">点击链接抢购</a> 名额有限，先到先得，<a href="英文链接">>>For developers outside Mainland China, please click here</a>
+      <sub>感谢<a href="中文链接">字节火山引擎</a>赞助本项目！
+【专属活动优惠】19元Tokens包！享字节自研豆包模型+满血版开源 SOTA模型，覆盖文本、VLM、图像生成，全模态一站配齐：Seed-2.1、Seedream-5.0、GLM-5.2、DeepSeek、Qwen等。不止编程、更能解决 Agent 复杂长程任务 -->注册即领2500万Tokens，立即前往，<a href="英文链接">>>For developers outside Mainland China, please click here</a>
         </sub>
     </td>
   </tr>
@@ -77,7 +81,7 @@ Thanks to Dola seed for sponsoring this project! Dola Seed 2.0 is a full‑modal
 <div align="center">
 <a href="中文链接">
     <img src="./huoshan.png" alt="火山引擎" width="150"/ >
-    <p>感谢<strong>火山引擎 </strong>赞助了本项目, 方舟 Agent Plan 限时2.5折订阅，<a href="中文链接">点击链接抢购</a></p>
+    <p>感谢<strong>火山引擎 </strong>赞助了本项目, 注册即领2500万Tokens，立即前往，<a href="中文链接">点击链接抢购</a></p>
 </a>
 </div>
 
